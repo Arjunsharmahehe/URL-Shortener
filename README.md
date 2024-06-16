@@ -9,5 +9,10 @@ How to communicate with an **API**.
 How to copy some text to the clipboard.
 
 
-## Language
-**Python**
+## Prerequisite
+
+- Install the needed python libraries by running the following commands in the terminal.
+``` 
+pip install pyshorteners
+```
+
